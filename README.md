@@ -78,7 +78,7 @@ The core components enable standard functionality outlined in [Quick start](#qui
 
 Compilation requires g++ and the standard C and C++ development libraries. Additionally, cmake is required for building the BamTools API within FreeBayes and LUMPY.
 ```
-git clone --recursive https://github.com/hall-lab/speedseq
+git clone --recursive https://github.com/uwb-linux/speedseq
 cd speedseq
 make
 ```
