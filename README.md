@@ -26,7 +26,7 @@ http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.3505.html
 ## Quick start
 1. Install
 	```
-	git clone --recursive https://github.com/hall-lab/speedseq
+	git clone --recursive https://github.com/uwb-linux/speedseq
 	cd speedseq
 	make
 	```
